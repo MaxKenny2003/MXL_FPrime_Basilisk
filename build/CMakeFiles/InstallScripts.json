@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ganymede/Umich/MXL/00_Basalisk_Work/MXL_FPrime_Basilisk/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

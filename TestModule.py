@@ -13,7 +13,6 @@ UDP_IP = "127.0.0.1"    # Talk to myself. String for weird reasons
 UDP_PORT = 9021     # Fantastic 4
 
 class TestPythonModule(sysModel.SysModel):
-    has_sent = False
     def __init__(self, *args):
         super().__init__(*args)
 
@@ -26,4 +25,4 @@ class TestPythonModule(sysModel.SysModel):
         
         msg = f"Hello from Basilisk. Current sim time is {CurrentSimNanos * 1e-9}"
         sock.sendto(msg.encode(), (UDP_IP, UDP_PORT))
-        print(f"Sent: {msg}")
+        #print(f"Sent: {msg}")
