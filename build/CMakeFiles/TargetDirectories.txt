@@ -1,3 +1,0 @@
-/home/ganymede/Umich/MXL/00_Basalisk_Work/MXL_FPrime_Basilisk/build/CMakeFiles/bridge.dir
-/home/ganymede/Umich/MXL/00_Basalisk_Work/MXL_FPrime_Basilisk/build/CMakeFiles/edit_cache.dir
-/home/ganymede/Umich/MXL/00_Basalisk_Work/MXL_FPrime_Basilisk/build/CMakeFiles/rebuild_cache.dir
